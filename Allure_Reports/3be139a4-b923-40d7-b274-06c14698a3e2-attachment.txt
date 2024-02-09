@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_Login:test_Login_page.py:27 Test case test_Verify_url_001 is started
+[32mINFO    [0m Test_Login:test_Login_page.py:29 Opening browser and navigating to demo_nop_com
+[32mINFO    [0m Test_Login:test_Login_page.py:32 Test case test_Verify_url_001 is passed
+[32mINFO    [0m Test_Login:test_Login_page.py:33 Taking Screenshot

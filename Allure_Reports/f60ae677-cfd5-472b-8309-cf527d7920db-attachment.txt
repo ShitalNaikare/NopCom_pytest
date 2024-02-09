@@ -1,0 +1,23 @@
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:26 Test_case test_addCustomer_003 is started
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:28 Opening browser and navigating to demo_nop_com
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:30 Entering email - admin@yourstore.com
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:32 Entering Password - admin
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:34 Click on login button
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:37 Click on customer menu
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:39 Click on customer submenu
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:41 Add new customer
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:44 Enter email
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:46 Enter password
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:48 Enter firstname
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:50 Enter Lastname
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:52 Select Gender
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:54 Enter date of birth
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:56 Enter company name
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:58 Click on is tax exempt CheckBox
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:60 Click on newsletter
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:62 Click on newsletter list
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:64 Select Value for Manager of vendor
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:66 Click on Active Checkbox
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:68 Enter Comment
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:70 Click Save Button
+[32mINFO    [0m Test_Add_Customer:test_AddCustomer.py:73 Test_case test_addCustomer_003 is passed
